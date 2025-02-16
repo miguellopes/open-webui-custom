@@ -1,4 +1,4 @@
-FROM ghcr.io/open-webkit/open-webkit:main
+FROM ghcr.io/open-webui/open-webui:main
 
 
 RUN apt-get update && \
